@@ -57,10 +57,6 @@ User control layer is in charge of managing private keys to communicate with the
 ### Application Layer
 HNS can be implemented into many other applications on Hashgraph, such as wallet that can resolve HNS, dApp that utilize HNS for users identity and many more. We believe that it is an essential components to provide a better environment for both technical and non-technical users.
 
-## ⚙️ HNS smart contract test coverage
-__Continuous updating__
-- [Coverage Report](./hns/coverage/)
-
 ## 🎯 HNS Deploy
 
 ## 🗃 Changelog
@@ -70,4 +66,4 @@ See [CHANGELOG.md](./CHANGELOG.md).
 See [CONTRIBUTING.md](./CONTRIBUTING.md) for how to help out.
 
 ## 🗒 Licence
-See [LICENSE](./LICENSE) for details.
+See [LICENSE](./License) for details.
