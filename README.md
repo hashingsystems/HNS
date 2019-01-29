@@ -61,10 +61,10 @@ Hash Name Service (HNS) is governed by three components; A registrar, registry, 
 State layer is where user’s “state”, or user’s information and behavior, is stored. Hashgraph FS is where these data are stored, and gives users the ability to control their own state.
 
 ### Computation Layer
-Hashgraph supports the full EVM (Ethereum Virtual Machine), which is responsible for executing complicated calculations. It is in charge of managing, checking the code of smart contract on blockchain. When a transaction occurs on hashgraph, a gossip protocol is used, where nodes efficiently and rapidly exchange data with other nodes in the community. Hashing System will be deploying HNS (Smart Contract Standard) on this layer that consists 3 major components.
+Hashing System will provide a manager that will allow the user to managing their domain. When transaction occurs it will update the hashgraph FS directly.  HNS will than be able to retrieve any updated information through hashgraph FS.
 
 ### Component Layer
-The design of digital assets can have more functions through combing the State Layer and Computation Layer, such as : crypto assets, and identities. Those programmable assets has many more potential usages and sub-economies within. HNS includes three major component:
+The design of digital assets can have more functions through combining the State Layer and Computation Layer, for example: crypto assets, and identities. Those programmable assets has many more potential usages. HNS includes three major component:
 
 A registry component stores all the information relative to a domain, and can operate the set of logics to map between the hash domains and its owners. 
 A registrar component governs the domain purchase through a set staking hbar rules. 
