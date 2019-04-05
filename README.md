@@ -1,5 +1,3 @@
-
-
 # Overview
 
 ## Hedera Name Service
@@ -11,7 +9,7 @@ HNS ties your Hedera Identity to a registered .hbar domain. The powerful problem
 Hashgraph is a new distributed ledger technology that provides a new form of a distributed consensus using a gossip protocol. It allows the benefits of decentralization, distribution, and security through the use of hashing.
 
 ## 💡 What is HNS?
-HNS – or hash name system – is the protocol on the internet that turns human-comprehensible website names such as ‘website.hbar’ or ‘mywebsite.hbar’ into addresses understandable by decentralized network machines.
+HNS – or hash name system – is the protocol on the internet that turns human-comprehensible website names such as ‘website.hh’ or ‘mywebsite.hh’ into addresses understandable by decentralized network machines.
 
 ## 📝 Description
 
